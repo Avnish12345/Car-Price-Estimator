@@ -5,5 +5,6 @@ This project takes the parameters of an used car like: Company name, Model name,
 It then predicts the possible price of the car.
 # How this Project does
 1.The data was cleaned (it was super unclean :( ) and analysed.
+
 2.Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
